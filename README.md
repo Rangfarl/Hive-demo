@@ -20,7 +20,8 @@ Some of the function included:
 •Get the pid of the rl client and replace both 12584 with your pid on line 18 in IRON_PM.cs.  
 •In remoteIO.cs change the file directory with the one for your plugin folder, pointing to kinputctrl.dll. line 61 (going to change this as soon as I can)  
 •Client must be in fixed mode.  
-•Xp drops changed to cyan and set on fastest.
+•Xp drops changed to cyan and set on fastest.  
+•brightness maxed.  
 
 # Scripts
 Included script is a very simple power miner.  
