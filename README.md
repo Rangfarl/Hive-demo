@@ -17,7 +17,7 @@ Some of the function included:
 •Framework for multi client support.  
 
 # Usage
-•Get the pid of the runelite client, and enter when asked.
+•Get the pid of the runelite client, and enter when asked.  
 •Client must be in fixed mode.  
 •Xp drops changed to cyan and set on fastest.
 
