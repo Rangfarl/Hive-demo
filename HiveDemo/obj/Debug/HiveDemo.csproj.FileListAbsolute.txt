@@ -1,0 +1,7 @@
+C:\Users\ihost\source\repos\HiveDemo\bin\Debug\HiveDemo.exe.config
+C:\Users\ihost\source\repos\HiveDemo\bin\Debug\HiveDemo.exe
+C:\Users\ihost\source\repos\HiveDemo\bin\Debug\HiveDemo.pdb
+C:\Users\ihost\source\repos\HiveDemo\obj\Debug\HiveDemo.csprojAssemblyReference.cache
+C:\Users\ihost\source\repos\HiveDemo\obj\Debug\HiveDemo.csproj.CoreCompileInputs.cache
+C:\Users\ihost\source\repos\HiveDemo\obj\Debug\HiveDemo.exe
+C:\Users\ihost\source\repos\HiveDemo\obj\Debug\HiveDemo.pdb
